@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\bin\Debug\net6.0\seminar8.exe
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\bin\Debug\net6.0\seminar8.deps.json
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\bin\Debug\net6.0\seminar8.runtimeconfig.json
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\bin\Debug\net6.0\seminar8.dll
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\bin\Debug\net6.0\seminar8.pdb
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\seminar8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\seminar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\seminar8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\seminar8.AssemblyInfo.cs
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\seminar8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\seminar8.dll
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\refint\seminar8.dll
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\seminar8.pdb
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\seminar8.genruntimeconfig.cache
+C:\Users\User\Desktop\гикбрейнс\с#\seminary\seminar8\obj\Debug\net6.0\ref\seminar8.dll
